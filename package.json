@@ -8,7 +8,6 @@
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
-    "@contentful/rich-text-plain-text-renderer": "^15.12.1",
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
@@ -27,7 +26,6 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-helmet": "^6.1.0",
-    "react-router-hash-link": "^2.4.3",
     "reading-time": "^2.0.0-1"
   },
   "devDependencies": {
